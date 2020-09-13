@@ -1,0 +1,14 @@
+body{
+  padding-top: 40px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-color: skyblue;
+  font-weight: bold;
+}
+
+#target{
+  font-size: 48px;
+  letter-spacing: 3px;
+  font-weight: bold;
+  cursor: pointer;
+}
